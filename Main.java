@@ -6,6 +6,7 @@ public class Main
         Student.msg();
         System.out.println("Yeah now its working properly....");
         Student.msg();
+        System.out.println("just Checking, Yeah now its working properly....");
         
     }
 }
